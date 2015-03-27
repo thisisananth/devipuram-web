@@ -1,6 +1,5 @@
 devipuram-web
 =============
 
-Web application to show messages to the user
+An application to show messages after payments integration for Devipuram Android App.
 
-Initial Version
